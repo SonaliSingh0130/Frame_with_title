@@ -1,0 +1,14 @@
+package com.company;
+
+import java.awt.*;
+
+public class Frame1 {
+   public static void main(string[] args)
+   {
+   
+       Frame f1=new Frame();
+       f1.setTitle("sonali");
+       f1.setSize(600,650);
+       f1.setVisible(true);
+       }
+}
